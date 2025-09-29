@@ -52,6 +52,19 @@ GET - /api/v1/employees/{id} - Retrieve a single employee by ID.
 PUT - /api/v1/employees/{id} - Update an existing employee record.
 DELETE - /api/v1/employees/{id} - Delete an employee record.
 
+Contributing
+Contributions are welcome! Please feel free to:
+Fork the repository.
+Create your feature branch (git checkout -b feature/AmazingFeature).
+Commit your changes (git commit -m 'Add some AmazingFeature').
+Push to the branch (git push origin feature/AmazingFeature).
+Open a Pull Request.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+Author: Shivani Patil
+
+
 
 
 
