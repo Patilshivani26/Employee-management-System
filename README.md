@@ -48,6 +48,10 @@ The system exposes RESTful endpoints for managing data. Use tools like Postman o
 POST - /api/v1/auth/login - Log in to get an authentication token.
 GET - /api/v1/employees - Retrieve a list of all employees.
 POST - /api/v1/employees - Create a new employee record.
+GET - /api/v1/employees/{id} - Retrieve a single employee by ID.
+PUT - /api/v1/employees/{id} - Update an existing employee record.
+DELETE - /api/v1/employees/{id} - Delete an employee record.
+
 
 
 
